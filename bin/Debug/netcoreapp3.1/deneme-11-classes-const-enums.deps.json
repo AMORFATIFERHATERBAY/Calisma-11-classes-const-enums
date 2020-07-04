@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "deneme-11-classes-const-enums/1.0.0": {
+        "runtime": {
+          "deneme-11-classes-const-enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "deneme-11-classes-const-enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

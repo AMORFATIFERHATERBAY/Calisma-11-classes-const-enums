@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/bin/Debug/netcoreapp3.1/deneme-11-classes-const-enums.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/bin/Debug/netcoreapp3.1/deneme-11-classes-const-enums.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/bin/Debug/netcoreapp3.1/deneme-11-classes-const-enums.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/bin/Debug/netcoreapp3.1/deneme-11-classes-const-enums.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/bin/Debug/netcoreapp3.1/deneme-11-classes-const-enums.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme-11-classes-const-enums/obj/Debug/netcoreapp3.1/deneme-11-classes-const-enums.genruntimeconfig.cache
